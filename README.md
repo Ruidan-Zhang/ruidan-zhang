@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Meredith.
 
-✨ Currently working as a Software Development Engineer intern at Black Cow Tech ✨
+✨ From splice to code, my passion for problem-solving has taken me from the world of video editing to the exciting and constantly evolving field of full stack software engineering. ✨
 
 ## 👩🏻‍💻 I code with
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
