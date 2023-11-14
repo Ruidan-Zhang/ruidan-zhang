@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Meredith.
+### Hi there 👋 I'm Jiu.
 
-✨ From splice to code, my passion for problem-solving has taken me from the world of video editing to the exciting and constantly evolving field of full stack software engineering. ✨
+✨ I recently decided to embrace a new chapter in my life by legally changing my name to Jiu Xu (pronounced as Jo Shoo). This personal choice reflects my journey of growth and self-discovery. You may have known me by my previous name, Meredith, but from now on, I'll go by Jiu. I appreciate your support as I make this transition.✨
 
 ## 👩🏻‍💻 I code with
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
