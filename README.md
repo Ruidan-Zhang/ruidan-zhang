@@ -28,8 +28,7 @@
 * Animal Crossing
 
 ## 📫 How to reach me
-* Email: ruidanzhang973@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/ruidan-meredith-zhang)
+* Email: itsjiuxu@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/jiu-xu)
 * [Portfolio Website](https://ruidan-zhang.github.io)
-* [Wellfound](https://wellfound.com/u/ruidan-meredith-zhang)
 
